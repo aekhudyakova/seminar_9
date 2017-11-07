@@ -64,6 +64,22 @@
           54.67065452767033
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#045988",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "22 июля": "— 1-я и 2-я русские армии соединились под Смоленском."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.871337890625,
+          54.813348417419284
+        ]
+      }
     }
   ]
 }
