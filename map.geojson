@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E754E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "— в армию прибыл новый главнокомандующий М. И. Голенищев-Кутузов, который занял удобный оборонительный рубеж при деревне Бородино.": "17 августа"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85182189941406,
+          55.49597142581546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#289541",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "в Кенигсберге министр иностранных дел Франции де Бассано подписалa ноту о разрыве дипломатических отношений с Россией": "4 июня"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.489501953125,
+          54.68018309710001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#518135",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "главные силы французов начали переправу через Неман.": "12 июня"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.208862304687496,
+          55.06106823723817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00674E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "французы вошли в Вильно": "16 июня"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29052734375,
+          54.67065452767033
+        ]
+      }
+    }
+  ]
+}
